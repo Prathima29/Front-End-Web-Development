@@ -1,0 +1,1 @@
+// JavaScript to toggle sidebar visibility
