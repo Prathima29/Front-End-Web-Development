@@ -1,0 +1,1 @@
+{ "name": "mits-landing-page", "version": "1.0.0", "scripts": {}, "devDependencies": { "tailwindcss": "^3.0.0", "autoprefixer": "^10.0.0" } }
